@@ -24,7 +24,7 @@
 
             <tr>
                 <td>
-                    <a href="/surat-keluar/<?php echo $item->id; ?>">
+                    <a href="/surat-masuk/<?php echo $item->id; ?>">
                     <?php echo $item->norujukan; ?>
                     </a>
                 </td>
